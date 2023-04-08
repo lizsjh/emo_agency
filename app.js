@@ -31,7 +31,7 @@ botui.message.add({
     return botui.message.add({
         delay:3000,
         loading: true,
-        content:'I feel embarrassed of my incapability.'
+        content:'This makes me feel embarrassed.'
     });
 }).then(function(){
     return botui.message.add({
