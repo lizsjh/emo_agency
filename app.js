@@ -41,7 +41,7 @@ botui.message.add({
     });
 }).then(function(){
     return botui.message.add({
-        delay:6000,
+        delay:10000,
         loading: true,
         content:'Your response is processed. Now, could you input your order number below?'
     });
