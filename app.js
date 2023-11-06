@@ -100,7 +100,7 @@ botui.message.add({
         delay:4000,
         loading: true,
         photo: true,
-        content:'I truly feel your annoyance due to the issue and prior error.'
+        content:'I truly feel your annoyance due to the issue.'
     });
 }).then(function(){
     sendcomplete();
